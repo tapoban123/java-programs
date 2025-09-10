@@ -22,7 +22,5 @@ class CheckPrime {
             System.out.println(number + " is a Prime number.");
         else
             System.out.println(number + " is not a Prime number.");
-
     }
-
 }
