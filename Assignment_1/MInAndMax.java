@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-class MInAndMax {
+class MinAndMax {
     static void displayArr(int[] arr) {
         System.out.print("Elements = ");
         for (int i : arr)
